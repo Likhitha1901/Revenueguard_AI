@@ -1,0 +1,20 @@
+pycache/
+*.py[cod]
+.venv/
+venv/
+myenv/
+.env
+Data and generated files
+
+data/raw/
+data/processed/
+data/synthetic_scenarios/
+models/.pkl
+models/.joblib
+
+Reports and temporary files
+
+reports/.csv
+reports/.json
+.streamlit/
+.DS_Store

@@ -1,0 +1,18 @@
+{
+  "records": 96478,
+  "positive_cases": 900,
+  "train_records": 72358,
+  "test_records": 24120,
+  "roc_auc": 0.9999707051684453,
+  "average_precision": 0.9957143845522547,
+  "confusion_matrix": [
+    [
+      23891,
+      4
+    ],
+    [
+      0,
+      225
+    ]
+  ]
+}
