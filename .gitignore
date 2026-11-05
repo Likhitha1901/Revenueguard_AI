@@ -17,4 +17,4 @@ Reports and temporary files
 reports/.csv
 reports/.json
 .streamlit/
-.DS_Store
+.DS_Storedata/investigations.db
